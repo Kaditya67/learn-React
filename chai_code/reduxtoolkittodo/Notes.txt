@@ -1,0 +1,5 @@
+Using Redux toolKit
+
+1. Create a store ----> using configureStore
+2. create a state i.e initial State which is updated by slices or reducers
+3. Create Reducer ---> named as slices in redux ---> using createSlice
